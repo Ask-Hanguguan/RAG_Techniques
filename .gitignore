@@ -15,6 +15,7 @@
 !data
 !evaluation
 !images
+!Flowchart_explanation
 !*.yml
 !.github
 !.github/workflows
